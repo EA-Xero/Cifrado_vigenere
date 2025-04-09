@@ -38,7 +38,7 @@ Ideal para cifrar mensajes de forma simple, segura y personalizada a través de 
 ---
 ## ⚙️ Ejecucion
 ### Como Compilar y Ejecutar el programa
-Antes de nada por favor descargar y ejecutar el compilador de Java (JDK) encontrado en: https://www.java.com/es/download/manual.jsp \
+Antes de nada por favor descargar y ejecutar el compilador de Java (JDK) encontrado en: https://www.oracle.com/cl/java/technologies/downloads/#java24 \
 Una vez instalado proceder con el siguiente bloque de comandos:
 ```bash
   git clone https://github.com/EA-Xero/Cifrado_Vinegere.git
