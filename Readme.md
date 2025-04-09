@@ -37,7 +37,6 @@ Ideal para cifrar mensajes de forma simple, segura y personalizada a través de 
 
 ---
 ## ⚙️ Ejecucion
-Hay dos formas de ejecutar el proyecto: **sin compilar** (usando el código ya compilado) o **compilando** el código desde el directorio fuente.
 ### Como Compilar y Ejecutar el programa
 Antes de nada por favor descargar y ejecutar el compilador de Java (JDK) encontrado en: https://www.java.com/es/download/manual.jsp \
 Una vez instalado proceder con el siguiente bloque de comandos:
